@@ -104,7 +104,7 @@ li {
     position: absolute;
     left: 50%;
     top: 50%;
-    background-image: url(../images/loading.gif);
+    background-image: url(https://cdn.rawgit.com/alfirohman/image-landing/a6662dad/loading.gif);
     background-repeat: no-repeat;
     background-position: center;
     -webkit-background-size: cover;
@@ -120,8 +120,8 @@ li {
 /* FONT FACE LOADER */
 @font-face {
     font-family: 'Lane';
-    src: url('../fonts/lanenar_Lane.eot');
-    src: url('../fonts/lanenar_Lane.eot?#iefix') format('embedded-opentype'), url('../fonts/lanenar_Lane.woff') format('woff'), url('../fonts/lanenar_Lane.ttf') format('truetype'), url('../fonts/lanenar_Lane.svg#Lane') format('svg');
+    src: url('https://cdn.rawgit.com/alfirohman/css-landing/2c1b94e2/lanenar_Lane.eot');
+    src: url('https://cdn.rawgit.com/alfirohman/css-landing/2c1b94e2/lanenar_Lane.eot?#iefix') format('embedded-opentype'), url('https://github.com/alfirohman/css-landing/blob/master/lanenar_Lane.woff') format('woff'), url('https://github.com/alfirohman/css-landing/blob/master/lanenar_Lane.ttf') format('truetype'), url('https://cdn.rawgit.com/alfirohman/css-landing/2c1b94e2/lanenar_Lane.svg#Lane') format('svg');
     font-weight: normal;
     font-style: normal;
 }
@@ -130,7 +130,7 @@ li {
  
     @font-face {
         font-family: 'Lane';
-        src: url('../fonts/lanenar_Lane.svg#Lane') format('svg');
+        src: url('https://cdn.rawgit.com/alfirohman/css-landing/2c1b94e2/lanenar_Lane.svg#Lane') format('svg');
     }
 }
 
@@ -276,7 +276,7 @@ h5 {
 -----------------------------------------*/
 
 header {
-    background: url(../images/bg-1.jpg) no-repeat center top fixed;
+    background: url(https://cdn.rawgit.com/alfirohman/image-landing/a6662dad/bg-1.jpg) no-repeat center top fixed;
     -webkit-background-size: cover;
             background-size: cover;
 }
@@ -496,7 +496,7 @@ object {
    SECTION:  TESTIMONIALS                 
 -----------------------------------------*/
 .testimonials {
-    background: url(../images/bg-2.jpg) no-repeat center fixed;
+    background: url(https://cdn.rawgit.com/alfirohman/image-landing/a6662dad/bg-2.jpg) no-repeat center fixed;
     -webkit-background-size: cover;
             background-size: cover;
     color: #ffffff;
@@ -669,7 +669,7 @@ object {
 -----------------------------------------*/
 
 .download {
-    background: url('../images/bg-3.jpg') no-repeat center fixed;
+    background: url('https://cdn.rawgit.com/alfirohman/image-landing/a6662dad/bg-3.jpg') no-repeat center fixed;
     -webkit-background-size: cover;
             background-size: cover;
     color: #ffffff;
